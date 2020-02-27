@@ -33,7 +33,8 @@ This application was created to enable chapter advisors to manage their chapters
 6.  The application should now be live!
 
 When both ends of the application are live, it should function perfectly.
-
+I made a judge login, but feel free to make another!
+```Firstname: FBLA, lastname: Judge, password FBLAJudge```
 Note: the application is set to run on localhost:3000.  If their is a connection error, you may need to port forward port 3000.
 ## Libraries
 1.  HTTP Library (org.apache.httpcomponents:httpclient:4.5.11)
